@@ -1,0 +1,11 @@
+.DogList img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    vertical-align: middle;
+}
+
+.DogList li {
+    font-size: 2rem;
+    padding: 20px;
+}
